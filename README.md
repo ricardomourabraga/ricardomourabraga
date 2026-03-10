@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ricardomourabraga
 - 👀 I’m interested in SAP - ABAP - FIORI - WEB
-- 🌱 I’m currently learning FIORI
+- 🌱 I’m currently learning CPI
 - 💞️ I’m looking to collaborate on many Projects
 - 📫 How to reach me ricardomourabraga@gmail.com
 
